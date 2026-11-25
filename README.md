@@ -1,8 +1,8 @@
 # Everyday Things, Two Lines, Longer Run
 
-[[![make.fun](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)
-[[![rank](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/kongkong070/u-suga-everyday-things-two-lines-longer-run-f8734479/rank.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
-[[![reward](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/kongkong070/u-suga-everyday-things-two-lines-longer-run-f8734479/reward.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![make.fun](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![rank](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/kongkong070/u-suga-everyday-things-two-lines-longer-run-f8734479/rank.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![reward](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/kongkong070/u-suga-everyday-things-two-lines-longer-run-f8734479/reward.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
 
 Entry for the make.fun competition `u-suga-everyday-things-two-lines-longer-run-f8734479`
 ($2, two-line explanation of an everyday thing to a 10-year-old).
